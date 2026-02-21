@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "現実を嗤う",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-21T16:22:14.623922Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "現実を嗤う",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_現実を嗤う_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "現実を嗤う",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_現実を嗤う_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "現実を嗤う",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_現実を嗤う_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "現実を嗤う",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_現実を嗤う_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Genjitsu o Warau (現実を嗤う)",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/05_Genjitsu_o_Warau_(現実を嗤う)_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "現実を嗤う",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_現実を嗤う_東京事変.txt"
+    }
+  ]
+}
