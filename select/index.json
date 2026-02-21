@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "現実を嗤う",
-  "base_artist": "東京事変",
-  "createdAt": "2026-02-21T16:22:14.623922Z",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T16:22:47.302522Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,14 @@
       "artist": "東京事変",
       "has_synced": false,
       "path": "select/pl_01_現実を嗤う_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "現実を嗤う",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_現実を嗤う_東京事変.txt"
     }
   ]
 }
